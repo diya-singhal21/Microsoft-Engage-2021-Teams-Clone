@@ -1,4 +1,4 @@
-# Conference Call
+# Microsoft Engage 2021 Challenge
 
 A Multi-user Video Call App implemented using WebRTC, Socket.io and Node.js.
 
